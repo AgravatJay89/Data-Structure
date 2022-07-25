@@ -119,7 +119,7 @@ class revopol{
 	 		}
 	 }
 }	
-public class Infix_to_postfix{
+class infix_to_postfix{
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter Your Input String:");
